@@ -7,6 +7,7 @@ public class ndprogram {
 		
 		System.out.println("HI");
 		System.out.println("My name is preeti");
+		System.out.println("TABLE WRITING PROGRAM");
 	}
 
 }
